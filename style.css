@@ -1,0 +1,20 @@
+body{
+    background-color: lightblue
+
+}
+
+#name {
+    display: flex;
+    justify-content: center;
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+}
+
+#info{
+    display: flex;
+    justify-content: center;
+    
+}
